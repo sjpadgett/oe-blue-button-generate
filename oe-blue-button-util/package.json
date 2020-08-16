@@ -1,0 +1,64 @@
+{
+  "_from": "github:sjpadgett/oe-blue-button-util#master",
+  "_id": "blue-button-util@1.6.0-beta.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/oe-blue-button-util",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "oe-blue-button-util@github:sjpadgett/oe-blue-button-util#master",
+    "name": "oe-blue-button-util",
+    "escapedName": "oe-blue-button-util",
+    "rawSpec": "github:sjpadgett/oe-blue-button-util#master",
+    "saveSpec": "github:sjpadgett/oe-blue-button-util#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/oe-blue-button-generate"
+  ],
+  "_resolved": "github:sjpadgett/oe-blue-button-util#fbfd2b5aad9a6c8d52099a1a2a7c66195cf92006",
+  "_spec": "oe-blue-button-util@github:sjpadgett/oe-blue-button-util#master",
+  "_where": "C:\\xampp\\htdocs\\openemr\\ccdaservice\\node_modules\\oe-blue-button-generate",
+  "author": {
+    "name": "Dmitry Kachaev",
+    "email": "dmitry@amida-tech.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sjpadgett/oe-blue-button-util/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Matthew McCall",
+      "email": "matt@amida-tech.com"
+    },
+    {
+      "name": "Afsin Ustundag",
+      "email": "afsin.ustundag@us.pwc.com"
+    }
+  ],
+  "dependencies": {
+    "moment": "^2.10.3"
+  },
+  "deprecated": false,
+  "description": "Common methods for Amida-Tech repos",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "https://github.com/sjpadgett/oe-blue-button-util#readme",
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "name": "blue-button-util",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjpadgett/oe-blue-button-util.git"
+  },
+  "scripts": {},
+  "version": "1.6.0-beta.1"
+}
