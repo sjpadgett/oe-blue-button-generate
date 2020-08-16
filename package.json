@@ -45,7 +45,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/openemr/oe-blue-button-generate"
+    "url": "https://github.com/sjpadgett/oe-blue-button-generate"
   },
   "keywords": [
     "bluebutton"
