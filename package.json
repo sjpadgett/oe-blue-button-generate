@@ -36,6 +36,7 @@
   },
   "bundleDependencies": true,
   "dependencies": {
+	"lodash": "4.17.11",
 	"libxmljs": "^0.19.5",
 	"moment": "~2.19.3",
 	"uuid": "^2.0.1"
