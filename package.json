@@ -38,8 +38,7 @@
   "dependencies": {
 	"libxmljs": "^0.19.5",
 	"moment": "~2.19.3",
-	"uuid": "^2.0.1",
-	"blue-button-model": "~1.10.0",
+	"uuid": "^2.0.1"
   },
   "devDependencies": {},
   "repository": {
